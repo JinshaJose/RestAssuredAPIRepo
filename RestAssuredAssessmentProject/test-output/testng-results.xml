@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-16T18:13:16 GST" name="Default suite" finished-at="2026-10-16T18:13:19 GST" duration-ms="2611">
+    <groups>
+    </groups>
+    <test started-at="2026-10-16T18:13:16 GST" name="Default test" finished-at="2026-10-16T18:13:19 GST" duration-ms="2611">
+      <class name="apitests.GetListTest">
+        <test-method signature="getList()[pri:0, instance:apitests.GetListTest@4c163e3]" started-at="2026-10-16T18:13:16 GST" name="getList" finished-at="2026-10-16T18:13:19 GST" duration-ms="2506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getList -->
+      </class> <!-- apitests.GetListTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
