@@ -25,7 +25,7 @@ public class PutRequestTest {
 	.statusCode(200)
 	.body("firstName", equalTo("Rahul"))
 	.body("age", equalTo(30))
-	.header("Content-Type", "keep-alive")
+	.header("Content-Type", "application/json; charset=utf-8")
 	.log().all()
 	.time(lessThan(3000l))
 ;	

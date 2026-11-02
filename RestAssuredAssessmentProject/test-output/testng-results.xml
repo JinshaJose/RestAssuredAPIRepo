@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-10-16T18:13:16 GST" name="Default suite" finished-at="2026-10-16T18:13:19 GST" duration-ms="2611">
+  <suite started-at="2026-11-02T07:03:56 GST" name="Default suite" finished-at="2026-11-02T07:03:58 GST" duration-ms="2720">
     <groups>
     </groups>
-    <test started-at="2026-10-16T18:13:16 GST" name="Default test" finished-at="2026-10-16T18:13:19 GST" duration-ms="2611">
-      <class name="apitests.GetListTest">
-        <test-method signature="getList()[pri:0, instance:apitests.GetListTest@4c163e3]" started-at="2026-10-16T18:13:16 GST" name="getList" finished-at="2026-10-16T18:13:19 GST" duration-ms="2506" status="PASS">
+    <test started-at="2026-11-02T07:03:56 GST" name="Default test" finished-at="2026-11-02T07:03:58 GST" duration-ms="2720">
+      <class name="apitests.PutRequestTest">
+        <test-method signature="updateUser()[pri:0, instance:apitests.PutRequestTest@25be7b63]" started-at="2026-11-02T07:03:56 GST" name="updateUser" finished-at="2026-11-02T07:03:58 GST" duration-ms="2611" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getList -->
-      </class> <!-- apitests.GetListTest -->
+        </test-method> <!-- updateUser -->
+      </class> <!-- apitests.PutRequestTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

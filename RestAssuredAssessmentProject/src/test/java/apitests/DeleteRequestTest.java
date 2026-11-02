@@ -8,7 +8,7 @@ public class DeleteRequestTest {
 	public void deletePost(){
 		given()
 		.when()
-		.delete(" https://dummyjson.com/users/1")
+		.delete("https://dummyjson.com/users/1")
 		.then()
 		.statusCode(200)// Validate the status code is 200.
 		.log().all()
